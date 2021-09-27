@@ -300,6 +300,14 @@ h3{
     .cta h1{
         font-size: 24px;
     }
+    .cta img{
+        height: 100%;
+        width: 100%;
+    }
+    .header{
+        height: 100%;
+        width: 100%;
+    }
 }
 .footer{
     width: 100%;
